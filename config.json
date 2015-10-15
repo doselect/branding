@@ -1,0 +1,17 @@
+{
+    "export_directory" : "dist",
+    "files" : [
+        {
+            "name" : "logo.svg",
+            "export_ext" : "png",
+            "sizes" : [
+                [512, 512],
+                [200, 200],
+                [128, 128],
+                [64, 64],
+                [32, 32],
+                [16, 16]
+            ]
+        }
+    ]
+}
